@@ -48,7 +48,7 @@ me.say_hi()
 </td>
 <td width="40%">
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100%"/>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" alt="Fun coding gif"/>
 
 </td>
 </tr>
@@ -184,28 +184,6 @@ const goals2024 = {
 
 ---
 
-## Fun Facts
-
-<table>
-<tr>
-<td width="60%">
-
-When I'm not coding, you'll find me gaming or exploring new tech
-
-Coffee + Code = Perfect Day
-
-**"First, solve the problem. Then, write the code."** - John Johnson
-
-</td>
-<td width="40%">
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" alt="Fun coding gif"/>
-
-</td>
-</tr>
-</table>
-
----
 
 ## Let's Connect!
 
