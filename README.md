@@ -1,12 +1,14 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1050">
+
 <table>
 <tr>
 <td width="60%" valign="top">
 
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5753443.png" width="603" height="119" alt="ROHITH PREM S" /></a>
+
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Machine+Learning+Engineer;AI+Systems+Builder;Building+Intelligent+Products" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=1000&color=4F46E5&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Machine+Learning+Engineer;AI+Systems+Builder;Building+Intelligent+Products" />
 
 </p>
 
@@ -15,6 +17,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohithprem91)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohithprem18)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohithprem91@gmail.com)
+
+</td>
 
 <td width="40%" align="center" valign="middle">
 
@@ -49,6 +53,7 @@ me.say_hi()
 ```
 
 </td>
+
 <td width="40%">
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" alt="Fun coding gif"/>
@@ -89,6 +94,7 @@ me.say_hi()
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 </td>
+
 <td width="50%" valign="top">
 
 ### Database & Cloud
@@ -117,14 +123,11 @@ me.say_hi()
 <tr>
 
 <td width="50%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohithprem18&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohithprem18&theme=github-light&hide_border=true" width="100%"/>
 </td>
+
 </tr>
-<tr>
-<td width="50%">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohithprem18&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B" alt="Contribution Graph" width="100%"/>
-</td>
-</tr>
+
 </table>
 
 ---
@@ -142,6 +145,7 @@ me.say_hi()
 - Ask me about React, Python, or Machine Learning!
 
 </td>
+
 <td width="40%">
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Coding animation"/>
@@ -157,12 +161,15 @@ me.say_hi()
 <table>
 <tr>
 <td width="100%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohithprem18&theme=radical" alt="Contribution Graph" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohithprem18&theme=github" width="100%"/>
+
 </td>
 </tr>
 </table>
 
 ---
+
 ## Let's Connect!
 
 <div align="center">
@@ -183,7 +190,7 @@ Feel free to reach out
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=rohithprem18&color=6C63FF&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=rohithprem18&color=blueviolet&style=for-the-badge)
 
 From [Rohith Prem S](https://github.com/rohithprem18)
 
