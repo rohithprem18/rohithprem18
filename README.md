@@ -3,9 +3,12 @@
 <tr>
 <td width="60%" valign="top">
 
-# Rohith Prem S
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5753443.png" width="603" height="119" alt="ROHITH PREM S" /></a>
+<p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=false&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Machine+Learning+Engineer;Building+the+Future" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Machine+Learning+Engineer;AI+Systems+Builder;Building+Intelligent+Products" />
+
+</p>
 
 ### CS Undergrad @ Saveetha Engineering College
 
@@ -160,31 +163,6 @@ me.say_hi()
 </table>
 
 ---
-
-## Current Goals
-
-<table>
-<tr>
-<td width="60%">
-
-```javascript
-const goals2024 = {
-    learning: ["Advanced ML Algorithms", "Cloud Architecture", "System Design"],
-    building: ["Production-ready ML Models", "Scalable Web Apps"],
-    contributing: ["Open Source Projects", "Tech Communities"],
-    certifications: ["AWS Solutions Architect", "TensorFlow Developer"]
-};
-```
-
-</td>
-<td width="40%">
-</td>
-</tr>
-</table>
-
----
-
-
 ## Let's Connect!
 
 <div align="center">
