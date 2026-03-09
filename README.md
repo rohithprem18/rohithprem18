@@ -1,10 +1,10 @@
-<div align="center">
+<table>
+<tr>
+<td width="60%" valign="top">
 
 # Rohith Prem S
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Machine+Learning+Engineer;Building+the+Future" alt="Typing SVG" />
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding gif"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=false&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Machine+Learning+Engineer;Building+the+Future" alt="Typing SVG" />
 
 ### CS Undergrad @ Saveetha Engineering College
 
@@ -13,11 +13,22 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
 
-</div>
+</td>
+<td width="40%" valign="top">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## About Me
+
+<table>
+<tr>
+<td width="60%">
 
 ```python
 class RohithPremS:
@@ -35,13 +46,22 @@ me = RohithPremS()
 me.say_hi()
 ```
 
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+</td>
+<td width="40%">
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Tech Stack
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -66,6 +86,9 @@ me.say_hi()
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
+</td>
+<td width="50%" valign="top">
+
 ### Database & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -80,27 +103,35 @@ me.say_hi()
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+</td>
+</tr>
+</table>
+
 ---
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohithprem18&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohithprem18&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak" height="170"/>
-</div>
+<table>
+<tr>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithprem18&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF" alt="Top Languages" height="170"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohithprem18&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B" alt="Contribution Graph" height="170"/>
-</div>
+<td width="50%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohithprem18&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak" width="100%"/>
+</td>
+</tr>
+<tr>
+<td width="50%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohithprem18&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B" alt="Contribution Graph" width="100%"/>
+</td>
+</tr>
+</table>
 
 ---
 
 ## What I'm Working On
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding animation"/>
-</div>
+<table>
+<tr>
+<td width="60%">
 
 - Building full-stack applications with modern web technologies
 - Exploring deep learning and neural networks
@@ -108,17 +139,34 @@ me.say_hi()
 - Looking to collaborate on open-source ML projects
 - Ask me about React, Python, or Machine Learning!
 
+</td>
+<td width="40%">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Coding animation"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## Contribution Activity
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohithprem18&theme=radical" alt="Contribution Graph"/>
-</div>
+<table>
+<tr>
+<td width="100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohithprem18&theme=radical" alt="Contribution Graph" width="100%"/>
+</td>
+</tr>
+</table>
 
 ---
 
 ## Current Goals
+
+<table>
+<tr>
+<td width="60%">
 
 ```javascript
 const goals2024 = {
@@ -129,21 +177,34 @@ const goals2024 = {
 };
 ```
 
+</td>
+<td width="40%">
+</td>
+</tr>
+</table>
+
 ---
 
 ## Fun Facts
 
-<div align="center">
+<table>
+<tr>
+<td width="60%">
 
 When I'm not coding, you'll find me gaming or exploring new tech
 
 Coffee + Code = Perfect Day
 
-"First, solve the problem. Then, write the code." - John Johnson
+**"First, solve the problem. Then, write the code."** - John Johnson
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Fun coding gif"/>
+</td>
+<td width="40%">
 
-</div>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" alt="Fun coding gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -155,7 +216,9 @@ I'm always excited to collaborate on interesting projects or discuss tech!
 Feel free to reach out
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohithprem91)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rohithprem91@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 
 ### 💭 "The best way to predict the future is to invent it." - Alan Kay
 
