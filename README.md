@@ -115,8 +115,6 @@ me.say_hi()
 </tr>
 </table>
 
-From [Rohith Prem S](https://github.com/rohithprem18)
-
 
 
 </div>
