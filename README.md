@@ -17,7 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohithprem91)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohithprem18)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohithprem91@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://3d-portfolio-sable-gamma.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://rohith-prem-portfolio.vercel.app/)
 </td>
 
 <td width="40%" align="center" valign="middle">
@@ -115,83 +115,8 @@ me.say_hi()
 </tr>
 </table>
 
----
-
-## GitHub Stats
-
-<table>
-<tr>
-
-<td width="50%">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohithprem18&theme=github-light&hide_border=true" width="100%"/>
-</td>
-
-</tr>
-
-</table>
-
----
-
-## What I'm Working On
-
-<table>
-<tr>
-<td width="60%">
-
-- Building full-stack applications with modern web technologies
-- Exploring deep learning and neural networks
-- Learning cloud architecture and DevOps practices
-- Looking to collaborate on open-source ML projects
-- Ask me about React, Python, or Machine Learning!
-
-</td>
-
-<td width="40%">
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Coding animation"/>
-
-</td>
-</tr>
-</table>
-
----
-
-## Contribution Activity
-
-<table>
-<tr>
-<td width="100%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohithprem18&theme=github" width="100%"/>
-
-</td>
-</tr>
-</table>
-
----
-
-## Let's Connect!
-
-<div align="center">
-
-I'm always excited to collaborate on interesting projects or discuss tech!  
-Feel free to reach out
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohithprem91)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rohithprem91@gmail.com)
-
-### 💭 "The best way to predict the future is to invent it." - Alan Kay
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=65&animation=twinkling" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=rohithprem18&color=blueviolet&style=for-the-badge)
-
 From [Rohith Prem S](https://github.com/rohithprem18)
+
+
 
 </div>
